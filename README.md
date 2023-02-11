@@ -1,0 +1,2 @@
+# ECScript
+A script language
