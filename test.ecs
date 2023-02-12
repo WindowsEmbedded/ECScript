@@ -1,2 +1,3 @@
 #!/mnt/d/my/source/ecscript/elf/ecs
+# 把上面的路径改成主程序路径再运行
 print "this is test"
