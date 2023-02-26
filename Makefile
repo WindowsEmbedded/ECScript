@@ -3,7 +3,7 @@ MAKE = make -r
 default:
 	$(MAKE) complie
 complie:
-	$(CC) -c ./src/Main.cpp -o ./out/Main.o
+	$(CC) -c ./src/Main.cpp -o ./out/Main.o 
 	$(CC) ./out/Main.o -o ./elf/ecs
 run:
 	$(MAKE) complie
